@@ -1,5 +1,7 @@
 ---
 title: Title! To jest C plus plus
+readTime: ~10 min
+updateTime: 9 kwietnia 2024
 keywords: Seo slowa kluczowe
 ---
 
